@@ -2,9 +2,9 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 NAME: ASMITA RAJENDRA BANDAL 
-INTERN ID: CT08JIO
+INTERN ID: CTO8JIO
 DOMAIN: FRONT END DEVELOPMENT
-DURATION: 4 WEEKS
+DURATION: 05 JANUARY 2025 TO 05 FEBRUARY 2025
 MENTOR: NEELA SANTOSH KUMAR 
 
 Quizi is a quiz/trivia game made with with Cohere. You can select different game modes and topics, you also have wildcards. Cohere's AI will generate the questions and answers for you.
