@@ -20,7 +20,7 @@ AnimatiSS For animations (title hover, correct and wrong answer)
 
 Getting Started
 Clone or fork the repo
-git clone https://github.com/cosmoart/quiz-game
+git clone https://github.com/Asmita-25/Codetech_Interactive_Quiz_Application
 Change directory to source_code
 cd source_code
 Install NPM packages
